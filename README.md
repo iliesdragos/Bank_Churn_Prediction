@@ -3,6 +3,8 @@
 ![R](https://img.shields.io/badge/R-Programming-blue)
 ![RStudio](https://img.shields.io/badge/RStudio-IDE-blue)
 
+## Project Overview
+
 A project to analyze and predict customer churn (exit) in a bank using various machine learning techniques. This project was created in R and explores the application of different classification algorithms to maximize the accuracy of predictions, particularly focusing on identifying customers likely to churn.
 
 
