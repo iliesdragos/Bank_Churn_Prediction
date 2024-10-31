@@ -1,4 +1,4 @@
-# Bank Churn Prediction
+# Bank Churn Prediction 🏦📉🔍
 
 ![R](https://img.shields.io/badge/R-Programming-blue)
 ![RStudio](https://img.shields.io/badge/RStudio-IDE-blue)
